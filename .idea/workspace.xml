@@ -37,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/diff21.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parrot_trouble.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -66,12 +75,13 @@
         <option value="$PROJECT_DIR$/monkey_trouble.py" />
         <option value="$PROJECT_DIR$/sum_double.py" />
         <option value="$PROJECT_DIR$/diff21.py" />
+        <option value="$PROJECT_DIR$/parrot_trouble.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="602" />
-    <option name="y" value="126" />
+    <option name="x" value="623" />
+    <option name="y" value="161" />
     <option name="width" value="946" />
     <option name="height" value="804" />
   </component>
@@ -113,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.diff21">
+  <component name="RunManager" selected="Python.parrot_trouble">
     <configuration name="diff21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingbat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,6 +158,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monkey_trouble.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parrot_trouble" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codingbat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parrot_trouble.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,6 +231,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.parrot_trouble" />
         <item itemvalue="Python.diff21" />
         <item itemvalue="Python.sum_double" />
         <item itemvalue="Python.monkey_trouble" />
@@ -246,11 +278,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549817927074</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="diff21">
+      <created>1549818162769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549818162769</updated>
+    </task>
+    <task id="LOCAL-00006" summary="diff21">
+      <created>1549818168778</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549818168778</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="837" y="117" width="946" height="812" extended-state="0" />
+    <frame x="780" y="135" width="946" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -262,7 +308,7 @@
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5011013" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49889868" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49889868" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,7 +321,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="monkey_trouble" />
     <MESSAGE value="sum_double" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum_double" />
+    <MESSAGE value="diff21" />
+    <option name="LAST_COMMIT_MESSAGE" value="diff21" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sleep_in.py">
@@ -303,6 +350,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parrot_trouble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
