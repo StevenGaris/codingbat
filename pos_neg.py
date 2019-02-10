@@ -1,10 +1,9 @@
 
-def pos_neg(a, b, negative):
-    return (a > 0 and b < 0) or (a < 0 and b > 0)
+def not_string(word):
+    if word[:3] == "not":
+        return word
+    return "not" + word
 
-    return negative and a < 0 and b < 0
-
-print(pos_neg(1, -1, False))
-print(pos_neg(-1, 1, False))
-print(pos_neg(1, -1, True))
-print(pos_neg(-1, -1, True))
+print(not_string("candy"))
+print(not_string("x"))
+print(not_string("not bad"))
