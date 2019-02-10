@@ -64,11 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/near_hundred.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pos_neg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -96,12 +105,13 @@
         <option value="$PROJECT_DIR$/parrot_trouble.py" />
         <option value="$PROJECT_DIR$/makes10.py" />
         <option value="$PROJECT_DIR$/near_hundred.py" />
+        <option value="$PROJECT_DIR$/pos_neg.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
-    <option name="y" value="166" />
+    <option name="x" value="742" />
+    <option name="y" value="114" />
     <option name="width" value="946" />
     <option name="height" value="804" />
   </component>
@@ -143,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.near_hundred">
+  <component name="RunManager" selected="Python.pos_neg">
     <configuration name="diff21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingbat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum_double" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pos_neg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingbat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,7 +250,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum_double.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pos_neg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pos_neg" />
         <item itemvalue="Python.near_hundred" />
         <item itemvalue="Python.makes10" />
         <item itemvalue="Python.parrot_trouble" />
         <item itemvalue="Python.diff21" />
-        <item itemvalue="Python.sum_double" />
       </list>
     </recent_temporary>
   </component>
@@ -347,11 +357,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549818799907</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="near_hundred">
+      <created>1549819128148</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1549819128148</updated>
+    </task>
+    <task id="LOCAL-00013" summary="near_hundred">
+      <created>1549819133449</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549819133449</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="743" y="158" width="946" height="804" extended-state="0" />
+    <frame x="742" y="114" width="946" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -379,7 +403,8 @@
     <MESSAGE value="diff21" />
     <MESSAGE value="parrot_trouble" />
     <MESSAGE value="makes10" />
-    <option name="LAST_COMMIT_MESSAGE" value="makes10" />
+    <MESSAGE value="near_hundred" />
+    <option name="LAST_COMMIT_MESSAGE" value="near_hundred" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sleep_in.py">
@@ -428,6 +453,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_neg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
