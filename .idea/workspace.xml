@@ -115,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.front_times">
+  <component name="RunManager" selected="Python.string_bits">
     <configuration name="front3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingbat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="missing_char" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="string_bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingbat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Warmup2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\codingbat\Warmup1\missing_char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Warmup2/string_bits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.string_bits" />
         <item itemvalue="Python.front_times" />
         <item itemvalue="Python.string_times" />
         <item itemvalue="Python.front3" />
         <item itemvalue="Python.front_back" />
-        <item itemvalue="Python.missing_char" />
       </list>
     </recent_temporary>
   </component>
