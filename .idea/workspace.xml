@@ -19,11 +19,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Warmup2/front_times.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Warmup2/string_bits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Warmup2/string_splosion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -58,14 +76,16 @@
         <option value="$PROJECT_DIR$/front3.py" />
         <option value="$PROJECT_DIR$/Warmup2/string_times.py" />
         <option value="$PROJECT_DIR$/Warmup2/front_times.py" />
+        <option value="$PROJECT_DIR$/Warmup2/string_bits.py" />
+        <option value="$PROJECT_DIR$/Warmup2/string_splosion.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="888" />
-    <option name="y" value="116" />
+    <option name="x" value="929" />
+    <option name="y" value="106" />
     <option name="width" value="946" />
-    <option name="height" value="804" />
+    <option name="height" value="839" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -115,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string_bits">
+  <component name="RunManager" selected="Python.string_splosion">
     <configuration name="front3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingbat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,27 +149,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="G:\codingbat\Warmup1\front3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="front_back" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codingbat" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\codingbat\Warmup1\front_back.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,6 +199,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="string_splosion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codingbat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Warmup2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Warmup2/string_splosion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="string_times" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingbat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.string_splosion" />
         <item itemvalue="Python.string_bits" />
         <item itemvalue="Python.front_times" />
         <item itemvalue="Python.string_times" />
         <item itemvalue="Python.front3" />
-        <item itemvalue="Python.front_back" />
       </list>
     </recent_temporary>
   </component>
@@ -424,11 +444,39 @@
       <option name="project" value="LOCAL" />
       <updated>1549823073028</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="front_times">
+      <created>1549823257614</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1549823257614</updated>
+    </task>
+    <task id="LOCAL-00028" summary="front_times">
+      <created>1549823261531</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1549823261531</updated>
+    </task>
+    <task id="LOCAL-00029" summary="string_bits">
+      <created>1549823447672</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1549823447672</updated>
+    </task>
+    <task id="LOCAL-00030" summary="string_bits">
+      <created>1549823451859</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1549823451859</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="888" y="116" width="946" height="804" extended-state="0" />
+    <frame x="724" y="113" width="946" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -440,7 +488,7 @@
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5011013" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49889868" visible="true" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49889868" visible="true" weight="0.31593794" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,7 +512,9 @@
     <MESSAGE value="front3" />
     <MESSAGE value="warmup1 folder" />
     <MESSAGE value="string_times" />
-    <option name="LAST_COMMIT_MESSAGE" value="string_times" />
+    <MESSAGE value="front_times" />
+    <MESSAGE value="string_bits" />
+    <option name="LAST_COMMIT_MESSAGE" value="string_bits" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Warmup1/sleep_in.py">
@@ -562,6 +612,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Warmup2/string_bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Warmup2/string_splosion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
