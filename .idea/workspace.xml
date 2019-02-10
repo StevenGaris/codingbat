@@ -28,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sum_double.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/diff21.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -56,14 +65,15 @@
         <option value="$PROJECT_DIR$/sleep_in.py" />
         <option value="$PROJECT_DIR$/monkey_trouble.py" />
         <option value="$PROJECT_DIR$/sum_double.py" />
+        <option value="$PROJECT_DIR$/diff21.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="630" />
-    <option name="y" value="94" />
+    <option name="x" value="602" />
+    <option name="y" value="126" />
     <option name="width" value="946" />
-    <option name="height" value="812" />
+    <option name="height" value="804" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -103,7 +113,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sum_double">
+  <component name="RunManager" selected="Python.diff21">
+    <configuration name="diff21" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codingbat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diff21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="monkey_trouble" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codingbat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,6 +200,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.diff21" />
         <item itemvalue="Python.sum_double" />
         <item itemvalue="Python.monkey_trouble" />
         <item itemvalue="Python.sleep_in" />
@@ -200,11 +232,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549817682362</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sum_double">
+      <created>1549817920674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549817920674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sum_double">
+      <created>1549817927074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549817927074</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="816" y="10" width="946" height="812" extended-state="0" />
+    <frame x="837" y="117" width="946" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -228,7 +274,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="monkey_trouble" />
-    <option name="LAST_COMMIT_MESSAGE" value="monkey_trouble" />
+    <MESSAGE value="sum_double" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum_double" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sleep_in.py">
@@ -249,6 +296,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diff21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
